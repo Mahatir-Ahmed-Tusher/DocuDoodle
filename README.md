@@ -1,4 +1,4 @@
-# **DocuDoodle**  
+ 
 ![DocuDoodle](https://github.com/user-attachments/assets/d2dc0478-cdf4-49a2-b45f-cbda8d625e08)
 
 **A Document Q&A System**  
