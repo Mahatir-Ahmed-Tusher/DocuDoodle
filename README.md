@@ -1,4 +1,6 @@
 # **DocuDoodle**  
+![DocuDoodle](https://github.com/user-attachments/assets/d2dc0478-cdf4-49a2-b45f-cbda8d625e08)
+
 **A Document Q&A System**  
 
 DocuDoodle is a **Document Q&A System** that allows users to upload documents (PDF, DOCX, TXT) and interact with them through a chat interface. Powered by **Mistral AI** for embeddings and question answering, and **ChromaDB** for document storage, DocuDoodle makes it easy to extract insights from your documents.  
