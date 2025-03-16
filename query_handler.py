@@ -8,11 +8,11 @@ from chroma_db_utils import get_relevant_passage
 # Constants
 MAX_RETRIES = 3
 RETRY_DELAY = 1  # Initial delay in seconds
-MODEL_NAME = "mistral-large-latest"  # Mistral's latest model
-REQUESTS_PER_MINUTE = 10  # Mistral's rate limit (adjust based on your tier)
+MODEL_NAME = "mistral-large-latest"  
+REQUESTS_PER_MINUTE = 10  # Mistral's rate limit 
 REQUEST_INTERVAL = 60 / REQUESTS_PER_MINUTE
 
-# Hardcoded Mistral API Key (NOT RECOMMENDED for production)
+
 MISTRAL_API_KEY = "Paste_your_own_api_key"
 
 # Initialize Mistral client
