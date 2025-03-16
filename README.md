@@ -100,7 +100,7 @@ DocuDoodle/
 ├── pdf_utils.py                 # Text extraction from PDFs, DOCX, and TXT files
 ├── requirements.txt             # List of dependencies
 ├── README.md                    # Project documentation
-└── .env                         # Environment variables (e.g., API keys)
+└── mistral_embedding.py                         
 ```
 
 ---
