@@ -4,7 +4,7 @@ from chromadb import EmbeddingFunction
 from mistralai.client import MistralClient  # Import Mistral client
 
 # Hardcoded Mistral API key (NOT RECOMMENDED for production)
-MISTRAL_API_KEY = "9x8duC1VJ7n5uEwdV8nG6bmFEIqCftKn"
+MISTRAL_API_KEY = "Your_own_api_key"
 
 # Initialize Mistral client
 mistral_client = MistralClient(api_key=MISTRAL_API_KEY)
