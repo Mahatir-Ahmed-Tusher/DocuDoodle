@@ -160,11 +160,6 @@ DocuDoodle is deployed on **Hugging Face Spaces**:
 
 ---
 
-## **License**  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
 ## **Contact**  
 For questions or feedback, feel free to reach out:  
 - **Mahatir Ahmed Tusher**  
