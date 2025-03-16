@@ -122,9 +122,7 @@ DocuDoodle/
 
 5. **`requirements.txt`**:  
    - Lists all dependencies for the project.  
-
-6. **`.env`**:  
-   - Stores environment variables (e.g., Mistral API key).  
+ 
 
 ---
 
