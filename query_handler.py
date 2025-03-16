@@ -13,7 +13,7 @@ REQUESTS_PER_MINUTE = 10  # Mistral's rate limit (adjust based on your tier)
 REQUEST_INTERVAL = 60 / REQUESTS_PER_MINUTE
 
 # Hardcoded Mistral API Key (NOT RECOMMENDED for production)
-MISTRAL_API_KEY = "9x8duC1VJ7n5uEwdV8nG6bmFEIqCftKn"
+MISTRAL_API_KEY = "Paste_your_own_api_key"
 
 # Initialize Mistral client
 mistral_client = MistralClient(api_key=MISTRAL_API_KEY)
