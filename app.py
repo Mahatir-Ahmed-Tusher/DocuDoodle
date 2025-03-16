@@ -7,7 +7,7 @@ from chroma_db_utils import create_chroma_db
 from query_handler import handle_query
 
 # Hardcoded API key (NOT RECOMMENDED for production)
-MISTRAL_API_KEY = "9x8duC1VJ7n5uEwdV8nG6bmFEIqCftKn"
+MISTRAL_API_KEY = "Paste_your_own_api_key"
 
 def initialize_session_state():
     """Initialize session state variables."""
