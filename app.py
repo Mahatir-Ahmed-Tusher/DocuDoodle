@@ -11,8 +11,8 @@ from chroma_db_utils import create_chroma_db
 from query_handler import handle_query
 import base64
 
-# Hardcoded API key (NOT RECOMMENDED for production)
-MISTRAL_API_KEY = "9x8duC1VJ7n5uEwdV8nG6bmFEIqCftKn"
+
+MISTRAL_API_KEY = "Your_own_api_key"
 
 # Set page configuration
 st.set_page_config(
