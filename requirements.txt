@@ -1,0 +1,25 @@
+# Core Dependencies
+chromadb>=0.4.0  # For vector database functionality
+mistralai>=0.1.1  # For Mistral AI API integration
+langchain>=0.1.0  # For text splitting and utilities
+streamlit>=1.30.0  # For the web app interface
+
+# File Processing Dependencies
+pymupdf>=1.23.0  # For PDF text extraction (fitz)
+python-docx>=0.8.11  # For DOCX text extraction
+pdfplumber>=0.10.0  # Alternative PDF text extraction (optional)
+tika>=2.6.0  # For extracting text from other file formats (optional)
+
+# Utility Dependencies
+python-dotenv>=1.0.0  # For environment variable management
+numpy>=1.21.0  # For numerical operations (if needed)
+typing-extensions>=3.7.4  # For type hints compatibility
+loguru>=0.7.0  # For enhanced logging (optional, replace with logging if not needed)
+tqdm>=4.65.0  # For progress bars (optional)
+
+# Development Dependencies (optional)
+pytest>=7.0.0  # For testing
+black>=23.0.0  # For code formatting
+flake8>=6.0.0  # For linting
+pytesseract>=0.3.10  # For OCR (image text extraction)
+pandas>=2.0.0  # For spreadsheet processing
